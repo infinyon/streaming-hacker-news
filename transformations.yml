@@ -1,0 +1,9 @@
+transforms:
+  - uses: infinyon-labs/rss-json@0.1.0
+  - uses: infinyon/jolt@0.1.0
+    with:
+      spec:
+      - operation: shift
+        spec:
+          items: ""
+  - uses: john/array-map@0.1.0
