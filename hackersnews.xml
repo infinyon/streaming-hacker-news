@@ -1,0 +1,106 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker News: Newest</title><link>https://news.ycombinator.com/newest</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1</generator><lastBuildDate>Wed, 03 May 2023 18:04:35 +0000</lastBuildDate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><title><![CDATA[When There Are No Bytes]]></title><description><![CDATA[
+<p>Article URL: <a href="https://discourse.llvm.org/t/when-there-are-no-bytes/70352">https://discourse.llvm.org/t/when-there-are-no-bytes/70352</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805584">https://news.ycombinator.com/item?id=35805584</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 18:01:57 +0000</pubDate><link>https://discourse.llvm.org/t/when-there-are-no-bytes/70352</link><dc:creator>mshockwave</dc:creator><comments>https://news.ycombinator.com/item?id=35805584</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805584</guid></item><item><title><![CDATA[Venture Oracle: AI tools for venture capital]]></title><description><![CDATA[
+<p>Article URL: <a href="https://chatg.vc/">https://chatg.vc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805576">https://news.ycombinator.com/item?id=35805576</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 18:01:29 +0000</pubDate><link>https://chatg.vc/</link><dc:creator>gk1</dc:creator><comments>https://news.ycombinator.com/item?id=35805576</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805576</guid></item><item><title><![CDATA[Black Mambas: patrol with South Africa’s (almost) all-female anti-poaching squad]]></title><description><![CDATA[
+<p>Article URL: <a href="https://adventure.com/black-mambas-anti-poaching-south-africa/">https://adventure.com/black-mambas-anti-poaching-south-africa/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805572">https://news.ycombinator.com/item?id=35805572</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 18:00:30 +0000</pubDate><link>https://adventure.com/black-mambas-anti-poaching-south-africa/</link><dc:creator>bryanrasmussen</dc:creator><comments>https://news.ycombinator.com/item?id=35805572</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805572</guid></item><item><title><![CDATA[Show HN: CS Weapons – Counter-Strike weapon simulator]]></title><description><![CDATA[
+<p>This day 2 years ago I shared my personal project CS Weapons here on Hacker News. I was blown away by your response, staying on the front page for almost a full day and peaking at #2. I was so grateful for all the valuable feedback and support ♥<p>With the advent of Counter-Strike 2 approaching and the upcoming major tournament in Paris next week, I thought it would be a good time for a relaunch; I'd love to show you how things progressed with its development and the implementation of some of your suggestions.<p>CS Weapons is a weapon simulator for CS:GO & CS2, written in JavaScript. It aims to provide valuable comparisons through the analysis of weapon data. CS Weapons includes powerful features like animated recoil patterns with compensation guides, reactive data-driven charts and a native app experience on mobile.<p>Calculations are performed live in the browser and are scenario dependent, dynamically updating based on which part of the body was hit, your range from the target and much more.<p>New features & notable changes:<p>- Fully dynamic weapon inaccuracy. This is computed in real-time depending on the number of shots fired, the interval between them and your firing position.<p>- Recoil patterns are now provided along with compensation guides. The animation speed matches the weapons rate of fire, so learning to follow the yellow path for a given weapon will effectively allow you to fully compensate in-game!<p>- A redesigned comparison interface.<p>- Settings to tailor your experience, like altering the units of measurement displayed for distances.<p>- Shot interval modifier. See what the optimum tapping speed is for a weapon by increasing the interval between shots to balance inaccuracy and DPS.<p>- Firing duration modifier. You can now simulate the amount of shots fired for each weapon rather than setting it directly. This is invaluable for comparing weapons with varied RPM.<p>- Position modifier. Alter your firing position to see how weapon inaccuracy is impacted. Find out what weapons are best to run and jump with!<p>Aside from that, under the hood I've also been fixing bugs, adding a new simpler payment flow and improving the site's performance on search engines.<p>CS Weapons has been a labour of love for me and I hope you feel that in your user experience. Thank you for your time and support ♥</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805571">https://news.ycombinator.com/item?id=35805571</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 18:00:29 +0000</pubDate><link>https://www.csweapons.com</link><dc:creator>vercadium</dc:creator><comments>https://news.ycombinator.com/item?id=35805571</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805571</guid></item><item><title><![CDATA[Why not everything I do is “Open” or “Free”]]></title><description><![CDATA[
+<p>Article URL: <a href="https://overengineer.dev/blog/2021/12/12/why-not-everything-i-do-is-open-or-free.html">https://overengineer.dev/blog/2021/12/12/why-not-everything-i-do-is-open-or-free.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805553">https://news.ycombinator.com/item?id=35805553</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:58:57 +0000</pubDate><link>https://overengineer.dev/blog/2021/12/12/why-not-everything-i-do-is-open-or-free.html</link><dc:creator>celiktom</dc:creator><comments>https://news.ycombinator.com/item?id=35805553</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805553</guid></item><item><title><![CDATA[We Broke LLMs: Indirect Prompt Injection]]></title><description><![CDATA[
+<p>Article URL: <a href="https://kai-greshake.de/posts/llm-malware/">https://kai-greshake.de/posts/llm-malware/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805551">https://news.ycombinator.com/item?id=35805551</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:58:54 +0000</pubDate><link>https://kai-greshake.de/posts/llm-malware/</link><dc:creator>SuenOqnxtof</dc:creator><comments>https://news.ycombinator.com/item?id=35805551</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805551</guid></item><item><title><![CDATA[Show HN: Hyperfocused – a macOS app to launch and manage windows]]></title><description><![CDATA[
+<p>Hey everyone,<p>I've been looking for a good layout management tool with profiles and focus app for Mac but none of them worked the way I wanted. I tried making the app I wanted for myself but was curious if other people would find it useful too. I've put in a free 7 day trial so please try it out and let me know what you think.<p>You don't need to sign up to download. Download link is in the Gumroad page.<p>Here are the apps I've tried in the past: amethyst, phoenix, rectangle, moom, heyfocus, selfcontrol</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805537">https://news.ycombinator.com/item?id=35805537</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:58:10 +0000</pubDate><link>https://tommylee1.gumroad.com/l/hyperfocused</link><dc:creator>cstlee32</dc:creator><comments>https://news.ycombinator.com/item?id=35805537</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805537</guid></item><item><title><![CDATA[SyBOS Is Hiring a German-Speaking VP of Engineering]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.sybos.net/">https://www.sybos.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805530">https://news.ycombinator.com/item?id=35805530</a></p>
+<p>Points: 2</p>
+<p># Comments: 1</p>
+]]></description><pubDate>Wed, 03 May 2023 17:57:47 +0000</pubDate><link>https://www.sybos.net/</link><dc:creator>mellifluousbox</dc:creator><comments>https://news.ycombinator.com/item?id=35805530</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805530</guid></item><item><title><![CDATA[Ask HN: Books that helped you become a better person?]]></title><description><![CDATA[
+<p>Maybe you were lacking something and you realised that after reading a book. Then you changed yourself and became someone whose company people enjoy more.</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805524">https://news.ycombinator.com/item?id=35805524</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:57:14 +0000</pubDate><link>https://news.ycombinator.com/item?id=35805524</link><dc:creator>curious16</dc:creator><comments>https://news.ycombinator.com/item?id=35805524</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805524</guid></item><item><title><![CDATA[Drawing with ChatGPT and Tikz]]></title><description><![CDATA[
+<p>Article URL: <a href="http://bobjansen.net/drawing-with-chatgpt/">http://bobjansen.net/drawing-with-chatgpt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805500">https://news.ycombinator.com/item?id=35805500</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:55:16 +0000</pubDate><link>http://bobjansen.net/drawing-with-chatgpt/</link><dc:creator>Bootvis</dc:creator><comments>https://news.ycombinator.com/item?id=35805500</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805500</guid></item><item><title><![CDATA[Andreessen Horowitz saw the future – but did the future leave it behind?]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.theverge.com/23697708/andreessen-horowitz-a16z-investing-tech">https://www.theverge.com/23697708/andreessen-horowitz-a16z-investing-tech</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805489">https://news.ycombinator.com/item?id=35805489</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:54:40 +0000</pubDate><link>https://www.theverge.com/23697708/andreessen-horowitz-a16z-investing-tech</link><dc:creator>jbredeche</dc:creator><comments>https://news.ycombinator.com/item?id=35805489</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805489</guid></item><item><title><![CDATA[Ajay Banga Confirmed as World Bank Leader]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.nytimes.com/2023/05/03/business/ajay-banga-world-bank.html">https://www.nytimes.com/2023/05/03/business/ajay-banga-world-bank.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805486">https://news.ycombinator.com/item?id=35805486</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:54:31 +0000</pubDate><link>https://www.nytimes.com/2023/05/03/business/ajay-banga-world-bank.html</link><dc:creator>saikatsg</dc:creator><comments>https://news.ycombinator.com/item?id=35805486</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805486</guid></item><item><title><![CDATA[The Ether Dreams of Fin-de-Siècle Paris]]></title><description><![CDATA[
+<p>Article URL: <a href="https://publicdomainreview.org/essay/ether-dreams">https://publicdomainreview.org/essay/ether-dreams</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805477">https://news.ycombinator.com/item?id=35805477</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:53:20 +0000</pubDate><link>https://publicdomainreview.org/essay/ether-dreams</link><dc:creator>Amorymeltzer</dc:creator><comments>https://news.ycombinator.com/item?id=35805477</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805477</guid></item><item><title><![CDATA[‘ordinary’ woman hid Anne Frank–and kept her story alive]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.nationalgeographic.com/history/article/a-small-light-miniseries-anne-frank-miep-gies">https://www.nationalgeographic.com/history/article/a-small-light-miniseries-anne-frank-miep-gies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805476">https://news.ycombinator.com/item?id=35805476</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:53:18 +0000</pubDate><link>https://www.nationalgeographic.com/history/article/a-small-light-miniseries-anne-frank-miep-gies</link><dc:creator>Brajeshwar</dc:creator><comments>https://news.ycombinator.com/item?id=35805476</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805476</guid></item><item><title><![CDATA[Web Game Dev Newsletter – Issue 015]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.webgamedev.com/newsletter/015">https://www.webgamedev.com/newsletter/015</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805453">https://news.ycombinator.com/item?id=35805453</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:51:17 +0000</pubDate><link>https://www.webgamedev.com/newsletter/015</link><dc:creator>jverrecchia</dc:creator><comments>https://news.ycombinator.com/item?id=35805453</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805453</guid></item><item><title><![CDATA[Show HN: DinoMark - Shopify App to bulk watermark your product images]]></title><description><![CDATA[
+<p>Hi Hackers,<p>I've bulilt a powerful Shopify app makes it simple and fast to add customizable watermarks to your product images in bulk, with just one click.<p>It's a must use app if you are into drop-shipping or print on demand to protect your designs and establish your brand.<p>With DinoMark, you can choose your watermark's placement, size, and opacity, and preview it instantly on any product image. Plus, our advanced image alt-text optimization features can help improve your store's SEO, making it easier for customers to find you online.<p>But don't just take our word for it. Try DinoMark today and see the difference for yourself! Our streamlined interface makes it easy to use, and our powerful tools can help you safeguard your business and boost your sales.<p>So if you're looking for a simple and effective way to protect your brand on Shopify, check out DinoMark. We'd love to hear what you think!<p>Thanks for reading!</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805438">https://news.ycombinator.com/item?id=35805438</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:49:56 +0000</pubDate><link>https://apps.shopify.com/one-click-watermark</link><dc:creator>mrayushsoni</dc:creator><comments>https://news.ycombinator.com/item?id=35805438</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805438</guid></item><item><title><![CDATA[Deploying a GPT-4 app to production: What we've learned]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.amplemarket.com//blog/deploying-a-gpt-4-app-to-production-what-we-learned">https://www.amplemarket.com//blog/deploying-a-gpt-4-app-to-production-what-we-learned</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805428">https://news.ycombinator.com/item?id=35805428</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:49:00 +0000</pubDate><link>https://www.amplemarket.com//blog/deploying-a-gpt-4-app-to-production-what-we-learned</link><dc:creator>olavo</dc:creator><comments>https://news.ycombinator.com/item?id=35805428</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805428</guid></item><item><title><![CDATA[IBM Chief’s Message to Remote Workers: ‘Your Career Does Suffer’]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2023-05-03/remote-work-can-hurt-your-career-ibm-ceo-says">https://www.bloomberg.com/news/articles/2023-05-03/remote-work-can-hurt-your-career-ibm-ceo-says</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805408">https://news.ycombinator.com/item?id=35805408</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:47:04 +0000</pubDate><link>https://www.bloomberg.com/news/articles/2023-05-03/remote-work-can-hurt-your-career-ibm-ceo-says</link><dc:creator>mirthlessend</dc:creator><comments>https://news.ycombinator.com/item?id=35805408</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805408</guid></item><item><title><![CDATA[End Covid-19 Vaccination Requirements for Employees, Contractors, Travelers]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/the-biden-administration-will-end-covid-19-vaccination-requirements-for-federal-employees-contractors-international-travelers-head-start-educators-and-cms-certified-facilities/">https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/the-biden-administration-will-end-covid-19-vaccination-requirements-for-federal-employees-contractors-international-travelers-head-start-educators-and-cms-certified-facilities/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805406">https://news.ycombinator.com/item?id=35805406</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:46:49 +0000</pubDate><link>https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/the-biden-administration-will-end-covid-19-vaccination-requirements-for-federal-employees-contractors-international-travelers-head-start-educators-and-cms-certified-facilities/</link><dc:creator>lxm</dc:creator><comments>https://news.ycombinator.com/item?id=35805406</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805406</guid></item><item><title><![CDATA[Ask HN: Modern Node.js Request Fault Tolerance Library?]]></title><description><![CDATA[
+<p>Curious if anyone knows of a modern request fault tolerance library of framework for Node.js?<p>Something akin to what [Hystrix] was for the Java ecosystem.</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35805389">https://news.ycombinator.com/item?id=35805389</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 03 May 2023 17:45:10 +0000</pubDate><link>https://news.ycombinator.com/item?id=35805389</link><dc:creator>rsmets</dc:creator><comments>https://news.ycombinator.com/item?id=35805389</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=35805389</guid></item></channel></rss>
