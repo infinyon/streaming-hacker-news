@@ -79,8 +79,9 @@ download sample data
 curl -o hackersnews.xml https://hnrss.org/newest
 ```
 Use smdk to test the transformation locally:
+```
 smdk test --transforms-file transformations.yml --file hackersnews.xml --raw | tail -n +2 | jq
-
+````
 
 Note: | tail -n +2 | jq is optional to make the output readable.
 
