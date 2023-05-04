@@ -90,6 +90,12 @@ Note: | tail -n +2 | jq is optional to make the output readable.
 fluvio cloud connector create  -c hackernews-connector.yaml
 ```
 
+## You will find a topic created based on the connector configuration to read data from the RSS
+## Deploy HTTP connector with transformations into Infinyon cloud
+```
+fluvio topic list
+```
+
 ## Check the connector by consuming records from hackernews topics
 
 ```
