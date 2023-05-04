@@ -15,4 +15,4 @@ transforms:
       - operation: shift
         spec:
           items: ""
-  - uses: infinyon-labs/array-map@0.1.0
+  - uses: john/array-map@0.1.0
