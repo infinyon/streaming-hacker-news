@@ -110,8 +110,4 @@ fluvio smartmodule delete infinyon/jolt@0.1.0
 fluvio smartmodule delete infinyon-labs/rss-json@0.1.0
 fluvio smartmodule delete infinyon-labs/array-map-json@0.1.0
 fluvio topic delete hackernews-rss
-
-       230.4 KB 
-                   564.0 KB 
-     64.7 KB 
 ```
