@@ -7,7 +7,7 @@ feed("Hackers News RSS feed")
 http("HTTP Connector(s)")
 rss_json("Smartmodule RSS to JSON")
 jolt("Smartmodule Jolt Shift Transform")
-array-map("Smart module Array to Array - Map")
+array-map("Smart module JSON array to stream of Records")
 topic("Fluvio topic")
 
 subgraph fc[Fluvio Cluster]
