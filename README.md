@@ -19,13 +19,15 @@ feed --> http
 ```
 
 ## Install Fluvio CLI
-
+#### Install Fluvio binary
 ```
 curl -fsS https://packages.fluvio.io/v1/install.sh | bash
 ```
+#### Add Fluvio to path
 ```
 echo 'export PATH="${HOME}/.fluvio/bin:${PATH}"' >> ~/.bashrc
 ```
+#### Update bash profile
 ```
 source ~/.bashrc
 ```
@@ -100,4 +102,16 @@ fluvio cloud connector create  -c hackernews-connector.yaml
 
 ```
 fluvio consume hackernews -Bd
+```
+## Clean up
+```
+fluvio cloud connector delete hackernews-connect
+fluvio smartmodule delete infinyon/jolt@0.1.0
+fluvio smartmodule delete infinyon-labs/rss-json@0.1.0
+fluvio smartmodule delete infinyon-labs/array-map-json@0.1.0
+fluvio topic delete hackernews-rss
+
+       230.4 KB 
+                   564.0 KB 
+     64.7 KB 
 ```
