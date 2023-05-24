@@ -1,9 +1,9 @@
 apiVersion: 0.1.0
 meta:
   version: 0.2.0
-  name: hackernews 
+  name: hackernews-connect
   type: http-source
-  topic: hackernews
+  topic: hackernews-rss
 http:
   method: GET
   endpoint: 'https://hnrss.org/newest'
