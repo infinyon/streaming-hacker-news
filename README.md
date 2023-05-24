@@ -23,6 +23,12 @@ feed --> http
 ```
 curl -fsS https://packages.fluvio.io/v1/install.sh | bash
 ```
+```
+echo 'export PATH="${HOME}/.fluvio/bin:${PATH}"' >> ~/.bashrc
+```
+```
+source ~/.bashrc
+```
 
 ## Login into Infinyon Cloud 
 
@@ -48,7 +54,7 @@ Use `fluvio hub download` to download the smartmodules to your cluster:
 ```
 fluvio hub download infinyon/jolt@0.1.0
 fluvio hub download infinyon-labs/rss-json@0.1.0
-fluvio hub download john/array-map@0.1.0
+fluvio hub download infinyon-labs/array-map-json@0.1.0
 ```
 
 Use fluvio sm list to confirm that they have been downloaded:
@@ -66,11 +72,11 @@ transforms:
       - operation: shift
         spec:
           items: ""
-  - uses: john/array-map@0.1.0
+  - uses: infinyon-labs/array-map-json@0.1.0
 ```
 
 ## (Optional) Test transformations locally 
-To test transformations locally install SMDK with 
+To test transformations locally install SMDK with: 
 ```
 fluvio install smdk
 ```
@@ -81,19 +87,13 @@ curl -o hackersnews.xml https://hnrss.org/newest
 Use smdk to test the transformation locally:
 ```
 smdk test --transforms-file transformations.yml --file hackersnews.xml --raw | tail -n +2 | jq
-````
+```
 
 Note: | tail -n +2 | jq is optional to make the output readable.
 
 ## Deploy HTTP connector with transformations into Infinyon cloud
 ```
 fluvio cloud connector create  -c hackernews-connector.yaml
-```
-
-## You will find a topic created based on the connector configuration to read data from the RSS
-## Deploy HTTP connector with transformations into Infinyon cloud
-```
-fluvio topic list
 ```
 
 ## Check the connector by consuming records from hackernews topics
